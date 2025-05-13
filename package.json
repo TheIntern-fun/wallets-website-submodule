@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@privy-io/react-auth": "^2.13.1",
+    "@privy-io/server-auth": "^1.22.0",
     "jsonwebtoken": "^9.0.2",
     "next": "^15.2.3",
     "permissionless": "^0.2.46",
